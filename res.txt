@@ -1,8 +1,0 @@
-#ttl-entries, #NFF:
- 10786, 2661
-def:
- #ttl-word, #ttl-char, #avg-word, #avg-char, #word-type, #char-type:
- 30100.000, 60877.000, 2.791, 5.644, 8293, 2557
-abbr:
- #ttl-char, #avg-char, #char-type:
- 20417.000, 1.893, 1687
